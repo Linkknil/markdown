@@ -116,7 +116,7 @@ printf("hello world");
 
 [编辑器介绍](http://itmyhome.com/markdown/article/tools/readme.html "编辑器和扩展介绍")
 
-5、问题
+# 5、问题 #
 - 目前很多markdown编辑器的一些语法不一致
 - github和 http://git.oschina.net 上传上去展示的不一致
 
