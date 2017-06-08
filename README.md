@@ -6,17 +6,16 @@
 # 2、基本语法 #
 1. 段落和换行  
 	段落内如何加入换行呢？  
-	<br>加br或者两个空格  
-<br>
+	加br或者两个空格
+
 2. 标题  
-	可以使用 # #来使用  
-<br>
+	可以使用 # #来使用
+
 3. 引用    
 	>在段落或者其他内容前使用>符号  
 	具体多行链接可以查看:
 	[http://itmyhome.com/markdown/article/syntax/blockquotes.html](http://itmyhome.com/markdown/article/syntax/blockquotes.html "引用")
 
-<br>
 4. 列表  
 	有序列表展示  
 	1.  记得.开始
@@ -26,30 +25,28 @@
 	- -可以  
 	+ +也可以  
 	* *也可以  
-<br>  
-5. 代码    
+  
+5. 代码   
+
 ```
 printf("hello world");
-```  
- 
+```
+  
+  
 6. 分割线  
 	
 	---
 	***
-<br>
+
 7. 超链接  
 
-格式 
-```
-[link text](URL 'title text')
-```
+	格式 `[link text](URL 'title text')`
+	
+	- 普通链接  
+	[Google](http://www.google.com/)  
 
-- 普通文本链接  
-[Google](http://www.google.com/)  
-
-- 本地文件链接  
-[icon.png](./imgs/tu.png)  
-<br>
+	- 本地文件链接  
+	[icon.png](./imgs/tu.png)  
 
 8. 插入图片  
 	插入图片的语法和插入超链接的语法基本一致，只是在最前面多一个 !。
@@ -59,13 +56,13 @@ printf("hello world");
 
 	- 插入一个指定大小图片<img标签  
 	<img src="./imgs/tu.png" title="test"  width="100" height="100"/> 
-<br> 
+
 9. 强调  
 	- 加粗  
 	  **怎么加粗**  
 	- 斜体  
 		*怎么斜体*
-<br> 
+
 10. 字符转义  
 	反斜线（\）用于插入在 Markdown 语法中有特殊作用的字符。
 
