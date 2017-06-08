@@ -26,8 +26,10 @@
 	+ +也可以  
 	* *也可以  
 <br>  
-5. 代码    
-	`printf("hello world");`
+5. 代码    
+```
+printf("hello world");
+```
 
 6. 分割线  
 	
@@ -42,7 +44,7 @@
 	[Google](http://www.google.com/)  
 
 	- 本地文件链接  
-	[icon.png](./imgs/tu.png)
+	[icon.png](./imgs/tu.png)  
 
 8. 插入图片  
 	插入图片的语法和插入超链接的语法基本一致，只是在最前面多一个 !。
