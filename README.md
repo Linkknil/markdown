@@ -3,7 +3,7 @@
 介绍链接地址：
 [http://itmyhome.com/markdown/article/about/readme.html](http://itmyhome.com/markdown/article/about/readme.html "mark讲解")
 
-[https://zh.wikipedia.org/wiki/Markdown](https://zh.wikipedia.org/wiki/Markdown "wiki地址")
+[https://zh.wikipedia.org/wiki/Markdown](wiki markdown "wiki地址")
 
 - 介绍  
 Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gruber）。它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。[4]这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
