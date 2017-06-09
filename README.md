@@ -5,13 +5,13 @@
 
 [wiki markdown介绍](https://zh.wikipedia.org/wiki/Markdown "wiki地址")
 
-1. 介绍  
+- 介绍  
 Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gruber）。它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。[4]这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。
 Wiki: Markdown
 
-2. 为什么使用markdown
+- 为什么使用markdown
 ---
-	2.1  它基于纯文本，方便修改和共享；  
+- - 它基于纯文本，方便修改和共享；   
    - 几乎可以在所有的文本编辑器中编写；  
    - 有众多编程语言的实现，以及应用的相关扩展；  
    - 在 GitHub 等网站中有很好的应用；  
