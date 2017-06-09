@@ -1,8 +1,8 @@
+
+
+[Markdown参考链接](http://itmyhome.com/markdown/article/about/readme.html "mark讲解")
+
 # 1、关于Markdown #
-
-介绍链接地址：
-[http://itmyhome.com/markdown/article/about/readme.html](http://itmyhome.com/markdown/article/about/readme.html "mark讲解")
-
 [wiki markdown介绍](https://zh.wikipedia.org/wiki/Markdown "wiki地址")
 
 - 介绍  
