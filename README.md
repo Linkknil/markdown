@@ -1,7 +1,4 @@
 # 1、关于Markdown #
-https://github.com/Linkknil/markdown
-
-http://git.oschina.net/texteditor/markdown
 
 介绍链接地址：
 [http://itmyhome.com/markdown/article/about/readme.html](http://itmyhome.com/markdown/article/about/readme.html "mark讲解")
