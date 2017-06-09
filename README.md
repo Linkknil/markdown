@@ -8,7 +8,7 @@ http://git.oschina.net/texteditor/markdown
 
 # 2、基本语法 #
 1. 段落和换行  
-	段落内如何加入换行呢？  
+	段落内如何加入换行呢？
 	加br或者两个空格
 
 2. 标题  
