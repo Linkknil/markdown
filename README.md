@@ -136,6 +136,8 @@ printf("hello world");
 - 目前很多markdown编辑器的一些语法不一致
 - github和 http://git.oschina.net 上传上去展示的不一致
 
-	
-	
-	
+# 6、工具Sublime Text3 markdown 支持 #
+
+- [生成markdown table的工具](http://www.tablesgenerator.com/markdown_tables "生成markdown table的工具网页工具")  
+- [Sublime Text 3 支持实时预览 Markdown](https://github.com/timonwong/OmniMarkupPreviewer)  
+- [Sublime Text 3 入门级使用](http://codingpub.github.io/2016/04/26/%E4%B8%AA%E6%80%A7%E5%8C%96Sublime-Text-3/)
